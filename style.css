@@ -1,0 +1,326 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial, sans-serif;
+    line-height:1.6;
+    background:#f4f4f4;
+}
+
+header{
+    background:#333;
+    color:white;
+    padding:10px;
+}
+
+header h1{
+    text-align:center;
+}
+
+nav ul{
+    display:flex;
+    justify-content:center;
+    list-style:none;
+    margin-top:10px;
+}
+
+nav ul li{
+    margin:0 15px;
+}
+
+nav ul li a{
+    text-decoration:san sans-serif;
+}
+
+.hero{
+    background:#f5f6fa
+    text-align:center;
+    padding:60xp 20px;
+}
+
+.hero img{
+    width:250px;
+    height:300px;
+    border radius:50%
+    object-fit:cover;
+    border:5px solid #ddd;
+    display:block;
+    margin:20px auto;
+}
+
+main{
+    padding:20px;
+}
+
+.Achievement 1{
+    background:white;
+    padding:15px;
+    margin:20px 0;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+.Acheivement 2{
+    width:100%;
+    max-width:400px;
+}
+
+footer{
+    background:#333;
+    color:white;
+    text-align:center;
+    padding:15px;
+    margin-top:20px;
+}
+/* Certificates Section */
+
+.projects{
+    text-align:center;
+    padding:20px;
+}
+
+.certificate-card{
+    width:900px;
+    height:auto;
+    background:white;
+    margin:20px auto;
+    padding:15px;
+    border-radius:10px;
+    box-shadow:0 2px 10px rgba(0,0,0,0.2);
+}
+
+.certificate-card img{
+    width:100%;
+    height:auto;
+    border-radius:5px;
+}
+.profile-pic {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 20px auto;
+    border: 4px solid #4da6ff;
+}
+.profile-pic {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 20px auto;
+    border: 4px solid #4da6ff;
+}
+body {
+    background: linear-gradient(135deg, #ffffff, #ffe4ef);
+    color: #333;
+}
+
+.page {
+    background: white;
+    border: 4px solid #ff69b4;
+    border-radius: 20px;
+    padding: 30px;
+    margin-bottom: 30px;
+    box-shadow: 0 6px 15px rgba(255, 105, 180, 0.2);
+}
+
+h1, h2 {
+    color: #ff4fa3;
+}
+
+.card {
+    background: #fff0f7;
+    border-center: 6px solid #ff69b4;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+button {
+    background: #ff69b4;
+    color: white;
+}
+
+button:hover {
+    background: #ff4fa3;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+body{
+    background-color:#f5eedc; /* Beige */
+    color:#4a3b3b;
+}
+
+/* Header */
+header{
+    background:linear-gradient(135deg,#ff8fb1,#ffc2d1);
+    padding:20px;
+    text-align:center;
+    box-shadow:0 4px 10px rgba(0,0,0,0.1);
+}
+
+header h1{
+    color:white;
+    font-size:3rem;
+    font-weight:bold;
+    letter-spacing:2px;
+}
+
+/* Navigation */
+nav{
+    margin-top:15px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:0 20px;
+    font-size:1.1rem;
+    font-weight:500;
+    transition:0.3s;
+}
+
+nav a:hover{
+    color:#6d214f;
+}
+
+/* Main Content */
+main{
+    text-align:center;
+    padding:60px 20px;
+}
+
+main h2{
+    font-size:2.5rem;
+    color:#c44569;
+    margin-bottom:20px;
+}
+
+main p{
+    font-size:1.2rem;
+    margin-bottom:30px;
+}
+
+/* Book Section / Portfolio Cards */
+.container{
+    width:90%;
+    max-width:1000px;
+    margin:auto;
+    background:#fff8f0;
+    padding:25px;
+    border-radius:20px;
+    box-shadow:0 6px 20px rgba(0,0,0,0.1);
+}
+
+/* Images */
+.container img{
+    width:100%;
+    border-radius:15px;
+    border:5px solid #ffc2d1;
+}
+
+/* Cards */
+.card{
+    background:#fff0f5;
+    border-left:6px solid #ff8fb1;
+    padding:20px;
+    margin:20px 0;
+    border-radius:12px;
+}
+
+/* Buttons */
+button{
+    background:#ff8fb1;
+    color:white;
+    border:none;
+    padding:12px 25px;
+    border-radius:25px;
+    cursor:pointer;
+    font-size:1rem;
+    transition:0.3s;
+}
+
+button:hover{
+    background:#e56b93;
+    transform:scale(1.05);
+}
+
+/* Footer */
+footer{
+    background:#ffc2d1;
+    color:#5a3d3d;
+    text-align:center;
+    padding:15px;
+    margin-top:40px;
+}
+*{
+margin:0px
+padding :0px ;
+box sizing: border-box;
+font- family :"Arial",sans-serif;
+}
+body{
+    background:linear -gradient (135deg,#e0f7fa,#fff0f6)
+display:flex:
+justify content :center;
+align-item:center;
+padding:30px
+}
+.contact-container{
+    background-color:#fff;
+    border-radius:16px;
+    box-shadow :0 10px 30px rgba(0,0,0,0.1);
+    max-width:600px
+    width:100%;
+    padding:32px
+}
+.contact-container h2{
+    text-align:center;
+    margin-bottom:25p;
+    color: id="00796b"
+    font-size: 32px;
+   }
+.form-group{
+margin-bottom:22px
+}
+input,textarea {
+    width :100%;
+    padding : 12px 16px;
+    border: 1px solid #999;
+    border-radius:8px;
+    font-size:16px;
+    backgroung-color: id="f0f0f0"
+}
+input:focus,textarea:focus{
+ border:#00acc1;
+ box-shadow:0 0 5px rgba(0,172,193,0.5)
+ outline:none;
+}
+textarea{
+resize:verticle;
+min-height:120px;
+}
+button{
+    display :block:
+    margine:auto;
+    backgroung-color:#ff6f00;
+    color:none;
+    padding:12px 16px
+    font-size:16px;
+    border-radius:8px;
+    cursor:pointer;
+    transition:0.3s ease;
+}
+button:hover{
+    background-color:#cc5100
+}
